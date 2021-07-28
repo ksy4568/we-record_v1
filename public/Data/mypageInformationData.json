@@ -1,0 +1,30 @@
+{
+  "result": {
+    "user_information": {
+      "start_status": true,
+      "stop_status": false,
+      "user_id": 3,
+      "user_name": "이다슬",
+      "user_profile_image_url": "https://werecord.s3.ap-northeast-2.amazonaws.com/643b2cec-c7de-47e8-99bf-851e8f7e6b1f",
+      "user_start_time": null,
+      "user_start_time2": "13:13:44.108",
+      "user_total_time": 954
+    },
+    "record_information": {
+      "weekly_record": {
+        "0": 12468,
+        "1": 14400,
+        "2": 12000,
+        "3": 12000,
+        "4": 37086
+      },
+      "total_accumulate_records": [
+        43200, 86384, 129369, 172513, 345026, 385026, 315026, 415026, 435026,
+        485026, 525834, 625830, 756424, 984412, 1104412, 1704412, 2904465
+      ],
+      "average_start_time": "11:32:47.500535",
+      "average_end_time": "20:12:10.632480",
+      "wecode_d_day": 100
+    }
+  }
+}
